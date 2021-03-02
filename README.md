@@ -18,6 +18,11 @@
  3.Effort
  4.Criticism
  5.Success of others
+
+| Title         | link                                              |
+| ------------- | ------------------------------------------------- |
+| read2         | [click here ](https://barqawiii.github.io/reading-notes/ )       |
+|               |                                                   |         
  
 
 
