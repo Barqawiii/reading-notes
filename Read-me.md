@@ -33,8 +33,10 @@ system that allows you to revisit various versions of a file or set of files by 
 
 
  -----------------------------------------------------------------------------------
+ 
+ 
  ## Getting Started
- ###Git can be installed in three ways:
+ ### Git can be installed in three ways:
 
 * Install as a package.
 * Install via another installer.
