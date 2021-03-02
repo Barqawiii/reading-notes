@@ -21,7 +21,7 @@
 
 | Title         | link                                              |
 | ------------- | ------------------------------------------------- |
-| read2         | [click here ](https://barqawiii.github.io/reading-notes/ )       |
+| read2         | [click here ](https://barqawiii.github.io/reading-notesRead2)       |
 |               |                                                   |         
  
 
