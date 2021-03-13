@@ -211,48 +211,55 @@ the information you present.
 
 --------------------------------
 ----------------------------
+# JS 
+## What is a script ?
+>+  A script is a series of instructions that a computer can follow to achieve a goal. 
 
-# JavaScript 
-## JavaScript is the programming language of the Web.JavaScript is one of the 3 languages all web developers must learn:
+> + to write your code you should achieve your goal that the computer can do more than one instraction at the same time it is follow the orders in step to achieve the goal so the correct steps to write the code should be as follow :
+   1. define the goal
+   2. design the script by deviding to steps
+   3. code each step
+> after we deign the flowchart that every step should be writing in that way the computer understand it : 
+- Vocabulary: The words that computers understand 
+- Syntax: How you put those words together to create instructions computers can follow
 
-   1.HTML to define the content of web pages
+## FLOWCHART KEY
+![](fc1.jpg)
 
-   2.CSS to specify the layout of web pages
+## rules to giving a variable a name:
+1. The name must begin with a letter.
+2. should not contain a spical charecter .
+3. we can not use the instractions to make the names .
+4. All variables are case sensitive.
+5. Use a name that describes the kind of information that the variable stores.
+6. use a capital latter for the first word if the name more than one word.
 
-  3.JavaScript to program the behavior of web pages 
-   
-## Why Study JavaScript?
- ### JavaScript can be used in  browsers to make websites more interactive, interesting, and user-friendly. You can use JavaScript to select any element, attribute, or text from an HTML page. For example: â€¢ Select the text inside all of the < hl> elements on a page . Select any elements that have a c 1  ass attribute with a value of note . Find out what was entered into a text input whose id attribute has a value of ema i 1 .
- ## EXAMPLES OF JAVASCRIPT IN THE BROWSER :
- ### Being able to change the content of an HTML page w hile it is loaded in the browser is very powerful. 
- ### The examples below rely on the ability to: 
- #### Access the content of the page 
- #### Modify t he content of the page
- #### Program rules or instructions t he browser can follow
- #### React to events triggered by t he user or browser 
- ## What a Script?
- ### A script is  a series of instructions that a computer can follow to achieve a goal.
- ## Writing a script
- ### To write a script, you need to first state your goal and then list the tasks that need to be completed in order to achieve it.
+## arrays
+>  it is a variable had a list of values related to each other
+```
+var colors;
+colors ['white', 'black', ' custom '];
+var el document.getElementByld('col ors');
+el . textContent = col ors[O];
+```
+## Expressions :
+> An expression evaluates into (results in) a single value. Broadly speaking there are two types of expressions.
 
- ## SKETCHING OUT THE TASKS IN A FLOWCHART:
- ### Often scripts will need to perform different tasks in different situations. You can use flowcharts to work out how the tasks fit together. The flowcharts show the paths between each step.
- ![image](https://user-images.githubusercontent.com/79833733/109932270-a64d6b00-7cd2-11eb-9d65-19d7ffc38a99.png)
- 
- 
- 
- 
-![image](https://user-images.githubusercontent.com/79833733/109932386-c715c080-7cd2-11eb-9627-4e2b1d5d7a54.png)
+1. EXPRESSIONS THAT JUST ASSIGN A VALUE TO A VARIABLE
 
- ## EXPRESSIONS
- ### Expressions that just assing a value to a variable 
- ### in order  for a variable to be useful, it needs to be given a value. As you have seen, t his is done using the assignment operator (the equals sign). var color= 'beige'; The value of co 1 or is now beige.
- ### EXPRESSIONS THAT USE TWO OR MORE VALUES TO RETURN A SINGLE VALUE You can perform operations on any number of individual values (see next page) to determine a single value. For example: var area = 3 * 2; The value of area is now 6. 
- ## A BASIC FUNCTION
- ![image](https://user-images.githubusercontent.com/79833733/109934134-d5fd7280-7cd4-11eb-937e-75cf841cbc29.png)
- ### GETTING MULTIPLE VALUES OUT OF A FUNCTION  
- ![image](https://user-images.githubusercontent.com/79833733/109934816-984d1980-7cd5-11eb-9bea-e64be3147ecf.png)
+2. EXPRESSIONS THAT USE TWO OR MORE VALUES TO RETURN A SINGLE VALUE
 
-### FUNCTION DECLARATION 
-![image](https://user-images.githubusercontent.com/79833733/109934569-58863200-7cd5-11eb-9821-1f26452c70a7.png)
+
+## What is a function 
+> Functions let you group a series of statements together to perform a specific task. If different parts of a script repeat the same task, you can reuse the function (rather than repeating the same set of st atements)
+
+## HTML
+![image](https://user-images.githubusercontent.com/79833651/109936663-ce3ecd80-7cd6-11eb-8e20-5eceec8aadce.png)
+
+  
+
+## JAVASCRIPT
+
+![image](https://user-images.githubusercontent.com/79833651/109936776-e9114200-7cd6-11eb-8a88-1fcb021daefe.png)
+
 
