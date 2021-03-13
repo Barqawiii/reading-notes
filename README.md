@@ -1,28 +1,20 @@
-#  growth mindset
-![growth mindset](https://3kllhk1ibq34qk6sp3bhtox1-wpengine.netdna-ssl.com/wp-content/uploads/2015/11/growth-mindset.png) 
+#  Welcome to Barqawi's Reading-notes Page :smiling_imp: :skull_and_crossbones:
 
-### growth mindset benefits :
-1.open pathways to more creativity and possibility.
-2.enable the setting of higher goals and more achievement.
+![Barqawi's pp](pp.jpg)
 
-**What is a growth mindset?**
-*A growth mindset believes that one’s fundamental abilities can be developed through perseverance and effort; intelligence and talent are simply good starting points. A growth mindset is synonymous with a love of learning.*
+## [Code **201** Reading Notes](https://barqawiii.github.io/reading-notes/201/README)
 
-### the differences between a fixed and a growth mindset:
- ![fixed and a growth mindset](https://3kllhk1ibq34qk6sp3bhtox1-wpengine.netdna-ssl.com/wp-content/uploads/NewGrowthMindset2.png)
+## Code **102** Reading Notes:
 
-
-***How can we perseverance, gumption traps, and maintaining a growth mindset ?***
- 1.Challenges
- 2.Obstacles
- 3.Effort
- 4.Criticism
- 5.Success of others
-
-| Title        | link                                              |
-| ------------ | ------------------------------------------------- |
-| read2        | [click here ](https://barqawiii.github.io/reading-notes/Read2)       
-|              |                                                   |         
+| File number      | links                                                          |
+| -----------------| ------------------------------------------------------------   |     
+|  ReadFile 2      |[click here ](https://barqawiii.github.io/reading-notes/Read2)  |  
+|  ReadFile 3      |[click here ](https://barqawiii.github.io/reading-notes/Read3)  |  
+|  ReadFile 4      |[click here ](https://barqawiii.github.io/reading-notes/Read4)  |
+|  ReadFile 4 - p2  |[click here ](https://barqawiii.github.io/reading-notes/Read4-1)|  
+|  ReadFile 4 - p3  |[click here ](https://barqawiii.github.io/reading-notes/readme04b)|  
+|  ReadFile 5      |[click here ](https://barqawiii.github.io/reading-notes/read5)  |  
+|  ReadFile 5 - p2     |[click here ](https://barqawiii.github.io/reading-notes/Read05)|         
  
 
 
