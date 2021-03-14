@@ -88,9 +88,13 @@ appear to start on a new line in
 the browser window. These are 
 known as block level elements. 
 > + Examples of block elements are : 
+
+
+
 ```
 <h1>, <p>, <ul>, and <li>.
 ```
+
 
 ### 6. Inline Elemnts 
 > Some elements will always 
@@ -99,15 +103,24 @@ same line as their neighbouring
 elements. These are known as 
 inline elements.
 Examples of inline elements are :
+
+
 ```
 <a>, <b>, <em>, and <img>.
 ```
+
+
 ### 7. Grouping Text & Elements In a Block
 > The < div > element allows you to  group a set of elements together in one block-level box.
 
+
 ![pic5](r01-5.png)
+
+
 ### 8. Grouping Text & Elements Inline
  ![pic6](r01-6.png)
+ 
+ 
 ### 9. Iframes
 > An iframe is like a little window 
 that has been cut into your 
@@ -115,6 +128,8 @@ page — and in that window you
 can see another page. The term 
 iframe is an abbreviation of inline 
 frame.
+
+
 ```
 <iframe 
 width="450" 
@@ -122,7 +137,10 @@ height="350"
 src="http://maps.google.co.uk/maps?q=moma+new+york&amp;output=embed">
 </iframe>
 ```
+
 ![pic7](r01-7.png)
+
+
 ### 10. meta 
 > + The < meta > tag allows you to supply all kinds of 
 information about your web page.
@@ -133,6 +151,8 @@ web page.
 
 -----------------------
 ----------------------
+
+
 # html5 layout
 ### HTML5 introduces a new set of elements that allow you to divide up the parts of a page.
 
@@ -150,6 +170,7 @@ individual < article > or
 < section > within the page
 
 ### navigation : 
+
 > The < nav > element is used to 
 contain the major navigational 
 blocks on the site such as the 
@@ -166,6 +187,8 @@ primary site navigation
 </ul>
 </nav>
 ```
+
+
 ### Figures :
 > < figure > < figcaption >
 > + used to contain any content that is referenced from the main flow of an article (not just images).
@@ -174,6 +197,8 @@ also contain a < figcaption >
 element which provides a text 
 decription for the content of 
 the < figure > element
+
+
 ```
 <figure>
 <img src="images/bok-choi.jpg" alt="Bok Choi" />
@@ -183,6 +208,8 @@ the < figure > element
 
 ----------------------
 ---------------------
+
+
 # Process & Design 
 ### 1. Site Maps
 > the aim is to create a diagram 
@@ -236,12 +263,16 @@ the information you present.
 
 ## arrays
 >  it is a variable had a list of values related to each other
+>  
+
 ```
 var colors;
 colors ['white', 'black', ' custom '];
 var el document.getElementByld('col ors');
 el . textContent = col ors[O];
 ```
+
+
 ## Expressions :
 > An expression evaluates into (results in) a single value. Broadly speaking there are two types of expressions.
 
