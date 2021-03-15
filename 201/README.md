@@ -11,7 +11,7 @@
 |----------------- | -------------------------------------------------------------- |   
 |  ReadFile 1      |[click here ](https://barqawiii.github.io/reading-notes/201/class-01)  |  
 |  ReadFile 2      |[click here ](https://barqawiii.github.io/reading-notes/class-02)  |  
-
+|  ReadFile 3      |[click here ](https://barqawiii.github.io/reading-notes/201/read3)  |
 
 
 
