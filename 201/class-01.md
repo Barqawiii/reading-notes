@@ -62,10 +62,10 @@ separated by an equals sign.
 <!--This is a comment -->
 ```
 ### 3. ID Attribute
+
 > - Every HTML element can carry  the id attribute. It is used to  uniquely identify that element  from other elements on the page .
-> - id attributes can be 
-used to allow the script to work 
-with that particular element.
+> - id attributes can be used to allow the script to work with that particular element.
+
 ```
 <p id="pullquote">Every time I view the sea I feel 
  a calming sense of security, as if visiting my 
@@ -73,16 +73,21 @@ with that particular element.
 </p>
 ```
 
+
 ### 4. Class Attribute
-> Every HTML element can 
-also carry a class attribute
+
+> Every HTML element can also carry a class attribute
+
 ```
 <p class="important">For a one-year period from 
  November 2010, the Marugame Genichiro-Inokuma 
  Museum of Contemporary Art (MIMOCA) will host a 
  cycle of four Hiroshi Sugimoto exhibitions.</p>
  ```
+
+
 ### 5. Block Elements
+
 > + Some elements will always 
 appear to start on a new line in 
 the browser window. These are 
@@ -97,6 +102,7 @@ known as block level elements.
 
 
 ### 6. Inline Elemnts 
+
 > Some elements will always 
 appear to continue on the 
 same line as their neighbouring 
@@ -142,6 +148,7 @@ src="http://maps.google.co.uk/maps?q=moma+new+york&amp;output=embed">
 
 
 ### 10. meta 
+
 > + The < meta > tag allows you to supply all kinds of 
 information about your web page.
 > + The < meta > element lives 
@@ -149,11 +156,12 @@ inside the < head > element and
 contains information about that 
 web page.
 
------------------------
-----------------------
+
+-----------------------------------------------
 
 
 # html5 layout
+
 ### HTML5 introduces a new set of elements that allow you to divide up the parts of a page.
 
 ![pic8](r01-8.png)
@@ -206,12 +214,14 @@ the < figure > element
 </figure>
 ```
 
-----------------------
----------------------
+
+-----------------------------------------------
 
 
 # Process & Design 
+
 ### 1. Site Maps
+
 > the aim is to create a diagram 
 of the pages that will be used 
 to structure the site. This is 
@@ -222,6 +232,7 @@ grouped.
 ![pic9](r01-9.png)
 
 ### 2. WireFrames
+
 > A wireframe is a simple sketch of the key 
 information that needs to go on each page of a 
 site. It shows the hierarchy of the information 
@@ -236,16 +247,20 @@ using size, color, and style.
 + You can use grouping and similarity to help simplify 
 the information you present.
 
---------------------------------
-----------------------------
+----------------------------------------------------
+
+
 # JS 
+
 ## What is a script ?
->+  A script is a series of instructions that a computer can follow to achieve a goal. 
+> + A script is a series of instructions that a computer can follow to achieve a goal. 
 
 > + to write your code you should achieve your goal that the computer can do more than one instraction at the same time it is follow the orders in step to achieve the goal so the correct steps to write the code should be as follow :
    1. define the goal
    2. design the script by deviding to steps
    3. code each step
+
+
 > after we deign the flowchart that every step should be writing in that way the computer understand it : 
 - Vocabulary: The words that computers understand 
 - Syntax: How you put those words together to create instructions computers can follow
@@ -264,6 +279,7 @@ the information you present.
 ## arrays
 >  it is a variable had a list of values related to each other
 >  
+
 
 ```
 var colors;

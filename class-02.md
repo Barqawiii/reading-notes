@@ -1,5 +1,6 @@
 # TEXT
 ### 1. Headings
+
 ```
 <h1>This is a Main Heading</h1>
 <h2>This is a Level 2 Heading</h2>
@@ -11,6 +12,7 @@
 ```
 
 ### 2. Paragraphs
+
 ```
 <p> A paragraph consists of one or more sentences 
  that form a self-contained unit of discourse. The 
@@ -18,10 +20,12 @@
  line.</p>
 
  ```
- ### 3. Bold & Italic
+ 
+### 3. Bold & Italic
+
  ![pic1](rva1.png)
 
- ### 4. Superscript & Subscript
+### 4. Superscript & Subscript
   ![pic2](rva2.png)
 
 ### 5. White Space
@@ -29,7 +33,8 @@
 two or more spaces next to each 
 other, it only displays one space. 
 
---------------------
+-----------------------------------------
+
 ## Semantic Markup
 
 **When the browser comes across  two or more spaces next to each other, it only displays one space.** 
@@ -38,7 +43,7 @@ other, it only displays one space.
 > + The use of the < strong >
 element indicates that its 
 content has strong importance. 
-> + The <em> element indicates 
+> + The < em > element indicates 
 emphasis that subtly changes 
 the meaning of a sentence.
 
@@ -50,8 +55,9 @@ quotations:
 > 2. < q >
 
 3. Abbreviations & Acronyms
+
 ```
-p><abbr title="Professor">Prof</abbr> Stephen 
+<p><abbr title="Professor">Prof</abbr> Stephen 
  Hawking is a theoretical physicist and 
  cosmologist.</p>
 <p><acronym title="National Aeronautics and Space 
@@ -60,6 +66,7 @@ p><abbr title="Professor">Prof</abbr> Stephen
 
 ```
 4. Citations & Definitions
+
 ```
 <p><cite>A Brief History of Time</cite> by Stephen 
  Hawking has sold over ten million copies 
@@ -70,8 +77,9 @@ p><abbr title="Professor">Prof</abbr> Stephen
 
 ```
 5. Author Details
+
 ```
-address>
+<address>
 <p><a href="mailto:homer@example.org">
  homer@example.org</a></p>
 <p>742 Evergreen Terrace, Springfield.</p>
@@ -93,7 +101,7 @@ that has been deleted from it
 
 #  Introducing CSS
 
-###  CSS Properties Affect How Elements Are  Displayed
+### CSS Properties Affect How Elements Are  Displayed
 ![pic3](rva3.png)
 
 ### 1. Using External CSS
@@ -110,27 +118,41 @@ that has been deleted from it
 
 
 # Basic JavaScript Instructions
+
  ### 1. STATEMENTS
+
  > A script is a series of instructions that a computer can follow one-by-one. 
 Each individual instruction or step is known as a statement. 
 Statements should end with a semicolon. 
+
  ### 2. COMMENTS
+
  > You should write comments to explain what your code does. 
 They help make your code easier to read and understand. 
 This can help you and others who read your code. 
+
  ### 3. WHAT IS A VARIABLE?
+
  > a script will have to temporarily 
 store the bits of information it 
 needs to do its job. It can store this 
 data in variables.
+
 ![](rva7.png)
+
  ### 4. DATA TYPES
+
  ![](rva71.png)
+
  ### 5. RULES FOR NAMING VARIABLES 
+
  ![](rva8.png)
+
  ### 6. ARRAYS
+
  > An array is a special type of variable. It doesn't 
 just store one value; it stores a list of values.
+
 ```
 var colors; 
 colors ['white', 'black', ' custom']; 
@@ -141,25 +163,30 @@ el . textContent = col ors[O];
  ### 7. EXPRESSIONS
  > evaluates into (results in) a single value. Broadly speaking 
 there are two types of expressions. 
-> 1. EXPRESSIONS THAT JUST ASSIGN A 
-VALUE TO A VARIABLE 
+
+> 1. EXPRESSIONS THAT JUST ASSIGN A VALUE TO A VARIABLE 
+
 ```
 var color = 'beige'; 
 ```
 
-> 2. EXPRESSIONS THAT USE TWO OR 
-MORE VALUES TO RETURN A 
-SINGLE VALUE
+> 2. EXPRESSIONS THAT USE TWO OR MORE VALUES TO RETURN A SINGLE VALUE
+
 ```
 var area = 3 * 2; 
 ```
 
  ### 8. OPERATORS
- #### + ARITHMETIIC OPERATORS
+
+ #### a) ARITHMETIIC OPERATORS
+
  ![](rva9.png)
- #### + STRING OPERATORS
+
+ #### b) STRING OPERATORS
+
  > There is just one string operator: the+ symbol. 
 It is used to join the strings on either side of it. 
+
 ```
 var firstName = 'Ivy ' ; 
 var lastName = ' Stone' ; 
@@ -167,10 +194,13 @@ var ful l Name = f irstName + l astName ;
 ```
 
 # Decisions and Loops
+
 ### there are 2 components to a decision:
+
  ![](rva10.png)
 
  ### COMPARISON OPERATORS
+
  ```
  var pass = 50; II Pass mark 
 var score = 90; II Score 
@@ -180,10 +210,12 @@ II Write the message i nt o the page
 var el = document .getEl ementByld(' answe r '); 
 e 1 . t extContent = 'Leve 1 passed: ' + has Passed; 
 ```
+
 ### Logical OPERATORS
  ![](rva11.png)
  
 ### IF ELSE STATEMENTS 
+
 ```
 var pass = 50; 
 var score = 75; 
