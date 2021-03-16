@@ -3,16 +3,22 @@
   1. Ordered list
 
   *Ordered lists use numbers.*
+
+
   ![pic1](read3p1.png)
 
   2. Unordered list
 
   *Unordered lists use bullets.*
+
+
   ![pic2](read3p2.png)
 
   3. Definition list
 
   *Definition lists are used to define terminology*
+
+
   ![pic3](read3p3.png)
 
   **(Lists can be nested inside one another.)**
@@ -20,28 +26,29 @@
 
 # Boxes
    
-   ## Box Dimensions:
+
+  1. Box Dimensions :
    **(width, height)**
 
    > By default a box is sized just big enough to hold its contents. To set your own dimensions for a box you can use the height and width properties.
 
    ![pic4](read3p4.png)
 
-   ## Limiting width:
+   2. Limiting width:
    **(min-width, max-width)**
 
    > Some page designs expand and shrink to fit the size of the user's screen. In such designs, the min-width property specifies the smallest size a box can be displayed at when the browser window is narrow, and the max-width property indicates the maximum width a box can stretch to when the browser window is wide.
 
    ![pic5](read3p5.png)
 
-   ## Limiting hight:
+   3. Limiting hight:
    **(min-height, max-height)**
 
    >In the same way that you might want to limit the width of a box on a page, you may also want to limit the height of it. This is achieved using the min-height and max-height properties.
 
    ![pic6](read3p6.png)
 
-   ## Border, Margin & Padding
+   4. Border, Margin & Padding
 
    ![pic7](read3p7.png)
 
@@ -63,6 +70,8 @@
        
 
 - border style
+
+
  ![pic8](read3p8.png)
        
 
@@ -122,18 +131,28 @@ just store one value; it stores a list of values.
 
 
 # Decisions and Loops
+
   ## SWITCH STATEMENTS
+
+
   ![](sl1.png)
+
   ## WHILE LOOPS
+
+
   >This loop will continue to run 
 for as long as the condition in 
 the parentheses is true.
   ![](sl2.png)
+
   ## FOR LOOPS 
+
   >A for loop is often used to loop 
 through the items in an array. 
   ![](sl3.png)
+
   ## Do WHILE LOOPS
+
   >The key difference between 
 a whi 1 e loop and a do whi 1 e 
 loop is that the statements in 
@@ -141,4 +160,5 @@ the code block come before the
 condition. This means that those 
 statements are run once whether 
 or not the condition is met. 
+
   ![](sl4.png)
