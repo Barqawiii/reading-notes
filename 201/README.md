@@ -18,5 +18,11 @@
 |  ReadFile 7      |[click here ](https://barqawiii.github.io/reading-notes/201/read7/read7)  |
 |  ReadFile 8      |[click here ](https://barqawiii.github.io/reading-notes/201/read8/read8)  |
 |  ReadFile 9      |[click here ](https://barqawiii.github.io/reading-notes/201/read9/read9)  |
+|  ReadFile 10     |[click here ](https://barqawiii.github.io/reading-notes/201/read10/read10)  |
+
+
+
+
+
 [BACK TO Home Page :D ](https://barqawiii.github.io/reading-notes/)
 
